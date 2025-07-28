@@ -1,4 +1,4 @@
-type FetchUsersType={
+export type FetchUsersType={
     id:number,
     name:string,
     email:string,
